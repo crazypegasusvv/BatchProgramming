@@ -9,7 +9,7 @@ setlocal EnableDelayedExpansion
 set "names_arr[0]=0"
 set "iter=0"
 
-@rem regarding more info about FOR type <HELP FOR> in cmd
+@rem regarding more info about FOR type HELP FOR in cmd
 @rem use ! around variables in case of DelayedExpansion 
 @rem       else the updated values aren't used
 @rem note that names.txt has to be in the same directory
